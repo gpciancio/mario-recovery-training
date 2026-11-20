@@ -1,4 +1,4 @@
-# GP Recovery Training
+# Mario Recovery Training
 
 Mobile-first, single-file Planet Fitness restoration workout tracker. Built as a portfolio-friendly static site designed around an iPhone screen.
 
